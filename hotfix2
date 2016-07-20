@@ -1,0 +1,19 @@
+this is second branch
+
+create branch by saying
+
+git checkout -b branch2
+
+first push it
+
+git push origin branch2
+
+whats happennning is a copy of master is being created in hub thats it
+
+then create fix
+
+vim hotfix2
+
+git status
+
+then pushit
